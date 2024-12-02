@@ -5,7 +5,10 @@
 :root {
     --primary-font: "Source Sans 3", sans-serif;
     --primary-color: #FBFEFC; /* light green */
+    --highlight-color: #A3D9B1; /* green */
 }
+
+/* Global styles */
 
 body {
     background-color: var(--primary-color);
@@ -13,7 +16,40 @@ body {
     font-family: var(--primary-font);
 }
 
+h1,
+h2 {
+    font-family: var(--primary-font);
+}
+
 h1 {
     font-size: 120px;
     font-weight: bold;
+}
+
+p {
+    font-size: x-large;
+}
+
+/* Header image */
+
+.d-block {
+    width: 200px;
+    height: 600px;
+    border-radius: 20px;
+}
+
+/* Buttons */
+
+.custom-button-filled {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: black;
+    font-size: x-large;
+}
+
+.custom-button-filled:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--secondary-color);
+    color: black;
+    font-size: x-large;
 }
