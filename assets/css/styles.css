@@ -49,6 +49,9 @@ h2 {
     font-weight: bold;
 }
 
+.card {
+    margin-bottom: 20px;
+}
 /* Buttons */
 
 .custom-button-filled {
