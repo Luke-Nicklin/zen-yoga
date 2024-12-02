@@ -76,7 +76,7 @@
     </div>
   </header>
 
-  <!-- main element to hold all key sections of the home page. It is not part of the grid structure -->
+  <!-- main element to hold all key sections of the home page -->
   <main>
     <!-- Services section -->
     <section id="services" class="container section">
@@ -114,6 +114,37 @@
                 </div>
               </div>
             </div>
+    
+    <!-- Booking enquiry form -->
+    <section id="booking-enquiry" class="container section">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2>Booking enquiry</h2>
+          <p>We'd love to hear from you!</p>
+        </div>
+          <form action="success.html" method="get">
+            <div class="row">
+              <div class="col-12 col-lg-4 mb-3">
+                  <label for="fname" class="form-label">First name</label>
+                  <input class="form-control" id="fname" name="fname" type="text" required>
+              </div>
+              <div class="col-12 col-lg-4 mb-3">
+                <label for="sname" class="form-label">Second name</label>
+                <input class="form-control" id="sname" name="sname" type="text" required>
+            </div>
+            <div class="col-12 col-lg-4 mb-3">
+              <label for="email" class="form-label">Email</label>
+              <input class="form-control" id="email" name="email" type="email" required>
+          </div>
+            <div class="col-12 mb-3">
+              <label for="message" class="form-label">Your message</label>
+              <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
+          </div>
+            </div>
+            <button type="submit" class="btn custom-button-filled mb-4">Submit</button>
+          </form>
+      </div>
+    </section>
 
   <!-- JavaScript code to ensure the Bootstrap mobile navbar collapses when navigating to in-page links -->
   <script>

@@ -52,6 +52,11 @@ h2 {
 .card {
     margin-bottom: 20px;
 }
+
+#booking-enquiry {
+    margin-top: 40px;
+}
+
 /* Buttons */
 
 .custom-button-filled {
