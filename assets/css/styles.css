@@ -95,3 +95,13 @@ h2 {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* Media queries */
+
+/* Small devices (mobiles, 320px and up) */
+@media screen and (max-width: 375px) {
+    /* Use smaller font-size for H1 */
+    h1 {
+        font-size: 32px;
+    }
+}
