@@ -5,6 +5,7 @@
 :root {
     --primary-font: "Source Sans 3", sans-serif;
     --primary-color: #FBFEFC; /* light green */
+    --secondary-color: #307341; /* dark green */
     --highlight-color: #A3D9B1; /* green */
 }
 
@@ -70,7 +71,7 @@ h2 {
 .custom-button-filled:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--secondary-color);
-    color: black;
+    color: white;
     font-size: x-large;
 }
 
