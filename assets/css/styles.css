@@ -55,6 +55,7 @@ h2 {
 
 #booking-enquiry {
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 /* Buttons */
@@ -71,4 +72,19 @@ h2 {
     background-color: var(--secondary-color);
     color: black;
     font-size: x-large;
+}
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 180%;
+    padding: 5%;
+    color: #3a3a3a;
 }
