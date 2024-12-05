@@ -21,7 +21,7 @@ In this section, you should go over the different parts of your project, and des
 
 - __The landing page image and content__
 
-  - The landing includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. 
+  - The landing page includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. 
 
 ![Landing Page](media/ZenYoga_landing_page_header.png)
 
