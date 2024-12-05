@@ -31,12 +31,12 @@ In this section, you should go over the different parts of your project, and des
 
 ![Services](media/ZenYoga_services_section.png)
 
-- __Meetup Times section__
+- __Booking Enquiry section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section allows the user to make a booking enquiry with ZenYoga about meditation, yoga and mindfulness sessions. The user will be asked to enter their full name, email address and message before they select the 'Submit' button.
+  - On completing the form and selecting 'Submit', the user will see a booking enquiry submitted message to confirm that their enquiery was sent.  
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Booking Enquiry](media/ZenYoga_booking_enquiry.png)
 
 - __The Footer__ 
 
