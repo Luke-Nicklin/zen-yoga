@@ -34,7 +34,8 @@ In this section, you should go over the different parts of your project, and des
 - __Booking Enquiry section__
 
   - This section allows the user to make a booking enquiry with ZenYoga about meditation, yoga and mindfulness sessions. The user will be asked to enter their full name, email address and message before they select the 'Submit' button.
-  - On completing the form and selecting 'Submit', the user will see a booking enquiry submitted message to confirm that their enquiery was sent.  
+  - On completing the form and selecting 'Submit', the user will see a booking enquiry submitted message to confirm that their enquiery was sent.
+  - This section exists towards the bottom of each page so the user can easily contact ZenYoga to make a booking enquiry.  
 
 ![Booking Enquiry](media/ZenYoga_booking_enquiry.png)
 
@@ -45,18 +46,22 @@ In this section, you should go over the different parts of your project, and des
 
 ![Footer](media/ZenYoga_footer.png)
 
-- __Gallery__
+- __Meditation__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The Meditation page provides a list of common techniques to help the user learn more about meditation.
+  - The user can also make a booking enquiry on this page without the need to return to the home page.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Meditation](media/ZenYoga_meditation.png)
 
-- __The Sign Up Page__
+- __Yoga__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+__Mindfulness__
+
+- 
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
