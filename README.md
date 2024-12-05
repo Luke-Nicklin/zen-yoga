@@ -55,9 +55,10 @@ In this section, you should go over the different parts of your project, and des
 
 - __Yoga__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The Yoga page provides a list of common techniques to help the user learn more about yoga.
+  - The user can also make a booking enquiry on this page without the need to return to the home page. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](media/ZenYoga_yoga.png)
 
 __Mindfulness__
 
