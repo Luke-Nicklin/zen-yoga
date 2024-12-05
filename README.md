@@ -21,16 +21,15 @@ In this section, you should go over the different parts of your project, and des
 
 - __The landing page image and content__
 
-  - The landing page includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. 
+  - The landing page includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. There is also a call to action in the form of a 'Contact us' button so the user can get in touch to find out more.
 
 ![Landing Page](media/ZenYoga_landing_page_header.png)
 
-- __Club Ethos Section__
+- __Services Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The services section provides the user with an overview of the different services that ZenYoga offers. Each service card includes an image, a brief description and a 'Learn more' button. The user can clearly see that ZenYoga specialises in meditation, yoga and mindfulness. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Services](media/ZenYoga_services_section.png)
 
 - __Meetup Times section__
 
