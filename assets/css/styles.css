@@ -59,6 +59,10 @@ h2 {
     margin-bottom: 40px;
 }
 
+#techniques > li {
+    margin-bottom: 20px;
+}
+
 /* Buttons */
 
 .custom-button-filled {
