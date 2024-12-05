@@ -67,7 +67,7 @@ __Mindfulness__
 
 ### Features Left to Implement
 
-- Booking timetable
+- Class timetable
 - Online booking system
 
 ## Testing 
