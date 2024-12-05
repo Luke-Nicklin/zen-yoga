@@ -8,8 +8,6 @@ ZenYoga is a site that helps users interested in self improvement learn more abo
 
 The ZenYoga website includes a number of features including a navigation bar, services section, booking enquiery form and footer.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -58,11 +56,14 @@ In this section, you should go over the different parts of your project, and des
   - The Yoga page provides a list of common techniques to help the user learn more about yoga.
   - The user can also make a booking enquiry on this page without the need to return to the home page. 
 
-![Sign Up](media/ZenYoga_yoga.png)
+![Yoga](media/ZenYoga_yoga.png)
 
 __Mindfulness__
 
-- 
+  - The Mindfulness page provides a list of common techniques to help the user learn more about mindfulness.
+  - The user can also make a booking enquiry on this page without the need to return to the home page.
+
+![Mindfulness](media/ZenYoga_mindfulness.png) 
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
