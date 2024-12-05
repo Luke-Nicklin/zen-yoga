@@ -40,10 +40,10 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the Facebook, X and Instagram pages for ZenYoga. This helps the user to easily connect with ZenYoga on social media. The links will open on a new tab to allow easy navigation for the user.
+  - The footer also includes further contact details so users can easily find ZenYoga or send them an email.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](media/ZenYoga_footer.png)
 
 - __Gallery__
 
