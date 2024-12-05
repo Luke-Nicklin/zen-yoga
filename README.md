@@ -19,12 +19,11 @@ In this section, you should go over the different parts of your project, and des
 
 ![Nav Bar](media/ZenYoga_navbar_mockup.png)
 
-- __The landing page image__
+- __The landing page image and content__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](media/ZenYoga_landing_page_header.png)
 
 - __Club Ethos Section__
 
