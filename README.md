@@ -145,4 +145,4 @@ The live link can be found here - https://luke-nicklin.github.io/zen-yoga/
 
 ### Media
 
-- The photos used on the home page are from pexels.com
+- The photos used on the website are from pexels.com
