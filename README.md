@@ -103,21 +103,19 @@ There are currently no known bugs associated with the website.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Select Pages in the Code and automation section of the vertical navigation
+  - Once the main branch has been selected, the page will include the live URL at the top of the page with a visit site button. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://luke-nicklin.github.io/zen-yoga/
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+### Code
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+- The site uses components and patterns from Bootstrap.
 
 ### Content 
 
@@ -148,6 +146,3 @@ You can break the credits section up into Content and Media, depending on what y
 ### Media
 
 - The photos used on the home page are from pexels.com
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
