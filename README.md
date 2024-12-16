@@ -47,6 +47,13 @@ __The Footer__
 
 ![Footer](media/ZenYoga-footer.png)
 
+__Favicon__
+
+  - A site wide favicon will be implemented with the ZenYoga initials 'ZY'.
+  - This will show an image in the tab so users can identify the ZenYoga website when they have multiple tabs open.
+
+  ![Favicon](media/ZenYoga-favicon.png)
+
 __Meditation__
 
   - The Meditation page provides a list of common techniques to help the user learn more about meditation.
