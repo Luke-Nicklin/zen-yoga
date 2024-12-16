@@ -66,7 +66,14 @@ __Mindfulness__
   - The Mindfulness page provides a list of common techniques to help the user learn more about mindfulness.
   - The user can also make a booking enquiry on this page without the need to return to the home page.
 
-![Mindfulness](media/ZenYoga-mindfulness.png) 
+![Mindfulness](media/ZenYoga-mindfulness.png)
+
+__Gallery__
+
+  - The gallery page showcases different images of people practising mindfulness, yoga and meditation.
+  - The images help to show the user what each activity involves and what they will be doing if they booking a session.
+
+![Gallery](media/ZenYoga-gallery.png) 
 
 ### Features Left to Implement
 
