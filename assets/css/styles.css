@@ -63,6 +63,12 @@ h2 {
     margin-bottom: 20px;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
 /* Buttons */
 
 .custom-button-filled {

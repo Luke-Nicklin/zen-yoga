@@ -60,3 +60,121 @@
             </div>
         </div>
     </nav>
+
+    <main>
+        <section id="gallery" class="container">
+            <h1>Gallery</h1>
+            <div id="photos">
+                <div class="row">
+                    <div class="col-xl-6 mb-3">
+                        <img src="assets/images/pexels-amin-sujan-529242-1375883.webp" alt="">
+                    </div>
+                    <div class="col-xl-6 mb-3">
+                        <img src="assets/images/pexels-max-nikhil-thimmayya-264069-802417.webp" alt="">
+                    </div>
+                    <div class="col-xl-4 mb-3">
+                        <img src="assets/images/pexels-elly-fairytale-3823039.webp" alt="">
+                    </div>
+                    <div class="col-xl-4 mb-3">
+                        <img src="assets/images/pexels-yash-pratap-singh-1095128954-29794011 (1).webp" alt="">
+                    </div>
+                    <div class="col-xl-4 mb-3">
+                        <img src="assets/images/pexels-mikael-blomkvist-4151865.webp" alt="">
+                    </div>
+                    <div class="col-xl-6 mb-3">
+                        <img src="assets/images/pexels-noellegracephotos-906097.webp" alt="">
+                    </div>
+                    <div class="col-xl-6 mb-3">
+                        <img src="assets/images/pexels-tima-miroshnichenko-5928254.webp" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Booking enquiry form -->
+        <section id="booking-enquiry" class="container section">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2>Booking enquiry</h2>
+                    <p>We'd love to hear from you!</p>
+                </div>
+                <form action="success.html" method="get">
+                    <div class="row">
+                        <div class="col-12 col-lg-4 mb-3">
+                            <label for="fname" class="form-label">First name</label>
+                            <input class="form-control" id="fname" name="fname" type="text" required>
+                        </div>
+                        <div class="col-12 col-lg-4 mb-3">
+                            <label for="sname" class="form-label">Second name</label>
+                            <input class="form-control" id="sname" name="sname" type="text" required>
+                        </div>
+                        <div class="col-12 col-lg-4 mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input class="form-control" id="email" name="email" type="email" required>
+                        </div>
+                        <div class="col-12 mb-3">
+                            <label for="message" class="form-label">Your message</label>
+                            <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn custom-button-filled mb-4">Submit</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer section -->
+    <!-- mt-auto added to push footer to the bottom of the page -->
+    <footer id="contact" class="mt-auto">
+        <div class="container section">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h3>Let's connect</h3>
+                    <ul id="social-networks">
+                        <li><a href="https://facebook.com/" target="_blank" rel="noopener"
+                                aria-label="Visit our Facebook page (opens in a new tab)"><i
+                                    class="fa-brands fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://x.com/" target="_blank" rel="noopener"
+                                aria-label="Visit our Twitter page (opens in a new tab)"><i
+                                    class="fa-brands fa-square-x-twitter"></i></a>
+                        </li>
+                        <li><a href="https://instagram.com/" target="_blank" rel="noopener"
+                                aria-label="Visit our Instagram page (opens in a new tab)"><i
+                                    class="fa-brands fa-instagram"></i></a>
+                        </li>
+                    </ul>
+                    <p>123 Serenity Lane, Calm City<br>
+                        contact@zenyoga.com</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/1d71aef06d.js" crossorigin="anonymous"></script>
+
+    <!-- JavaScript code to ensure the Bootstrap mobile navbar collapses when navigating to in-page links -->
+    <script>
+        document
+            .querySelectorAll(".navbar-collapse .nav-link")
+            .forEach((link) => {
+                link.addEventListener("click", function (e) {
+                    let section = document.querySelector(e.target.getAttribute("href"));
+                    if (section) {
+                        e.preventDefault(); // Prevent default anchor click behavior
+                        let navbarHeight = document.querySelector(".navbar-toggler").offsetHeight;
+                        window.scroll({
+                            top: section.offsetTop - navbarHeight, // Adjust for navbar height
+                            behavior: "smooth",
+                        });
+                        document
+                            .querySelector(".navbar-collapse")
+                            .classList.remove("show"); // Collapse navbar
+                    }
+                });
+            });
+    </script>
+</body>
+
+</html>
