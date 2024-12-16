@@ -79,7 +79,7 @@ __Mindfulness__
 
 Home page on desktop
 
-![Home](media/ZenYoga%20-%20home%20page%20wirframe.png)
+![Home](media/ZenYoga%20-%20Home%20page%20wirframe.png)
 
 Yoga page on mobile
 
