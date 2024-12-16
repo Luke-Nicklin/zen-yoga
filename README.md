@@ -6,7 +6,7 @@ ZenYoga is a site that helps users interested in self improvement learn more abo
 
 ## Features 
 
-The ZenYoga website includes a number of features including a navigation bar, services section, booking enquiery form and footer.
+The ZenYoga website includes a number of features including a navigation bar, services section, booking enquiery form, gallety and footer.
 
 ### Existing Features
 
@@ -19,13 +19,15 @@ The ZenYoga website includes a number of features including a navigation bar, se
 
 - __The landing page image and content__
 
-  - The landing page includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. There is also a call to action in the form of a 'Contact us' button so the user can get in touch to find out more.
+  - The landing page includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. There is also a call to action in the form of a 'Contact us' button.
+  - This helps the user to quickly understand the purpose of the website and to get in touch to find out more.
 
 ![Landing Page](media/ZenYoga_landing_page_header.png)
 
 - __Services Section__
 
-  - The services section provides the user with an overview of the different services that ZenYoga offers. Each service card includes an image, a brief description and a 'Learn more' button. The user can clearly see that ZenYoga specialises in meditation, yoga and mindfulness. 
+  - The services section provides the user with an overview of the different services that ZenYoga offers. Each service card includes an image, a brief description and a 'Learn more' button. 
+  - The helps the user to clearly see the different services ZenYoga offers and gives them a way to find our more about each service. 
 
 ![Services](media/ZenYoga_services_section.png)
 
@@ -39,8 +41,9 @@ The ZenYoga website includes a number of features including a navigation bar, se
 
 - __The Footer__ 
 
-  - The footer section includes links to the Facebook, X and Instagram pages for ZenYoga. This helps the user to easily connect with ZenYoga on social media. The links will open on a new tab to allow easy navigation for the user.
-  - The footer also includes further contact details so users can easily find ZenYoga or send them an email.
+  - The footer section includes links to the Facebook, X and Instagram pages for ZenYoga. 
+  - This helps the user to easily connect with ZenYoga on social media. The links will open on a new tab to allow easy navigation.
+  - The footer also includes further contact details so users can locate ZenYoga or send them an email.
 
 ![Footer](media/ZenYoga_footer.png)
 
