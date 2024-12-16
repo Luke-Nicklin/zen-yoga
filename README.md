@@ -2,7 +2,7 @@
 
 ZenYoga is a site that helps users interested in self improvement learn more about meditation, yoga and mindfulness. The site's primary users are beginners and those looking to expand their knowledge of health and wellbeing. ZenYoga will provide users with informative content on the basics and allow them to get in touch to make a booking.
 
-![Responsice Mockup](media/ZenYoga_mockup.png)
+![Responsice Mockup](media/ZenYoga-mockup.png)
 
 ## Features 
 
@@ -15,21 +15,21 @@ __Navigation Bar__
   - Featured on all four pages and the form submitted success page, the fully responsive navigation bar includes links to the Logo, home, meditation, yoga and mindfulness pages. The Contact us link in the navigation bar also takes the user to the booking enquiery section on each page.
   - This section allows the user to easily navigate the site on each page and return to the home page without using the browser's 'back' button.
 
-![Nav Bar](media/ZenYoga_navbar_mockup.png)
+![Nav Bar](media/ZenYoga-navbar-mockup.png)
 
 __The landing page image and content__
 
   - The landing page includes an image of someone practicing meditation and welcoming content that explains the purpose of ZenYoga. There is also a call to action in the form of a 'Contact us' button.
   - This helps the user to quickly understand the purpose of the website and to get in touch to find out more.
 
-![Landing Page](media/ZenYoga_landing_page_header.png)
+![Landing Page](media/ZenYoga-landing-page-header.png)
 
 __Services Section__
 
   - The services section provides the user with an overview of the different services that ZenYoga offers. Each service card includes an image, a brief description and a 'Learn more' button. 
   - The helps the user to clearly see the different services ZenYoga offers and gives them a way to find our more about each service. 
 
-![Services](media/ZenYoga_services_section.png)
+![Services](media/ZenYoga-services-section.png)
 
 __Booking Enquiry section__
 
@@ -37,7 +37,7 @@ __Booking Enquiry section__
   - On completing the form and selecting 'Submit', the user will see a booking enquiry submitted message to confirm that their enquiery was sent.
   - This section exists towards the bottom of each page so the user can easily contact ZenYoga to make a booking enquiry.  
 
-![Booking Enquiry](media/ZenYoga_booking_enquiry.png)
+![Booking Enquiry](media/ZenYoga-booking-enquiry.png)
 
 __The Footer__ 
 
@@ -45,28 +45,28 @@ __The Footer__
   - This helps the user to easily connect with ZenYoga on social media. The links will open on a new tab to allow easy navigation.
   - The footer also includes further contact details so users can locate ZenYoga or send them an email.
 
-![Footer](media/ZenYoga_footer.png)
+![Footer](media/ZenYoga-footer.png)
 
 __Meditation__
 
   - The Meditation page provides a list of common techniques to help the user learn more about meditation.
   - The user can also make a booking enquiry on this page without the need to return to the home page.
 
-![Meditation](media/ZenYoga_meditation.png)
+![Meditation](media/ZenYoga-meditation.png)
 
 __Yoga__
 
   - The Yoga page provides a list of common techniques to help the user learn more about yoga.
   - The user can also make a booking enquiry on this page without the need to return to the home page. 
 
-![Yoga](media/ZenYoga_yoga.png)
+![Yoga](media/ZenYoga-yoga.png)
 
 __Mindfulness__
 
   - The Mindfulness page provides a list of common techniques to help the user learn more about mindfulness.
   - The user can also make a booking enquiry on this page without the need to return to the home page.
 
-![Mindfulness](media/ZenYoga_mindfulness.png) 
+![Mindfulness](media/ZenYoga-mindfulness.png) 
 
 ### Features Left to Implement
 
