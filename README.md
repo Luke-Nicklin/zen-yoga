@@ -54,6 +54,13 @@ __Favicon__
 
   ![Favicon](media/ZenYoga-favicon.png)
 
+__404 page__
+
+  - If a user navigates to a broken link, a 404 page will be displayed.
+  - The page will let users know that the page they're trying to navigate to doesn't exist and provide them an easy way to return to the home page.
+
+  ![404](media/ZenYoga-404.png)
+
 __Meditation__
 
   - The Meditation page provides a list of common techniques to help the user learn more about meditation.
