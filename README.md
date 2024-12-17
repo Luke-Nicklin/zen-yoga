@@ -190,6 +190,23 @@ __Gallery__
 
 ![Gallery](media/ZenYoga-gallery-lighthouse.png)
 
+### Functional Testing
+
+**Navigation Links**
+
+Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
+
+| Navigation Link | Page to Load     |
+| --------------- | ---------------  |
+| Home            | index.html       |
+| Meditation      | meditation.html  |
+| Yoga            | yoga.html        |
+| Mindfulness     | mindfulness.html |
+| Gallery         | gallery.html     |
+| Contact         | #booking-enquiry |
+
+Links on all pages navigated to the correct pages as exptected.
+
 ### Validator Testing 
 
 - HTML
