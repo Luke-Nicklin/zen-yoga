@@ -12,7 +12,7 @@ The ZenYoga website includes a number of features including a navigation bar, se
 
 __Navigation Bar__
 
-  - Featured on all four pages and the form submitted success page, the fully responsive navigation bar includes links to the Logo, home, meditation, yoga and mindfulness pages. The Contact us link in the navigation bar also takes the user to the booking enquiery section on each page.
+  - Featured on all pages, the fully responsive navigation bar includes links to the Logo, home, meditation, yoga, mindulness and gallery pages. The Contact link in the navigation bar also takes the user to the booking enquiery section on each page.
   - This section allows the user to easily navigate the site on each page and return to the home page without using the browser's 'back' button.
 
 ![Nav Bar](media/ZenYoga-navbar-mockup.png)
@@ -57,7 +57,7 @@ __Favicon__
 __404 page__
 
   - If a user navigates to a broken link, a 404 page will be displayed.
-  - The page will let users know that the page they're trying to navigate to doesn't exist and provide them an easy way to return to the home page.
+  - It will let users know that the page they're trying to navigate to doesn't exist and provide them an easy way to return to the home page.
 
   ![404](media/ZenYoga-404.png)
 
@@ -85,7 +85,7 @@ __Mindfulness__
 __Gallery__
 
   - The gallery page showcases different images of people practising mindfulness, yoga and meditation.
-  - The images help to show the user what each activity involves and what they will be doing if they booking a session.
+  - The images help the user visualise each activity and see the types of things they will be doing if they book a session.
 
 ![Gallery](media/ZenYoga-gallery.png) 
 
@@ -155,9 +155,9 @@ Website behaved as expected.
 
 ### Accessibility
 
-[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.
+[Wave Accessibility](https://wave.webaim.org/) tool was used for final testing of the deployed website to check for any accessibility issues.
 
-Testing was focused to ensure the following criteria were met:
+Testing checked to see if the following criteria were met:
 
 - All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
 - Color contrasts meet a minimum ratio as specified in [WCAG 2.2 Contrast Guidelines](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html)
@@ -194,7 +194,7 @@ __Gallery__
 
 **Navigation Links**
 
-Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
+Testing was performed to ensure all navigation links on the respective pages navigated to the correct pages as per design. This was done by selecting the navigation links on each page.
 
 | Navigation Link | Page to Load     |
 | --------------- | ---------------  |
@@ -235,8 +235,8 @@ There are currently no known bugs associated with the website.
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - Select Pages in the Code and automation section of the vertical navigation
-  - Once the main branch has been selected, the page will include the live URL at the top of the page with a visit site button. 
+  - Select Pages in the 'Code and automation' section of the vertical navigation on the left side
+  - Once the main branch has been selected and saved, the page will include the live URL at the top of the page with a visit site button.
 
 The live link can be found here - https://luke-nicklin.github.io/zen-yoga/
 
