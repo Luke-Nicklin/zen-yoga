@@ -63,8 +63,13 @@ h2 {
     margin-bottom: 20px;
 }
 
-.container {
+.error-container {
     text-align: center;
+}
+
+/* Email link */
+.large {
+    font-size: 24px;
 }
 
 /* Gallery page */

@@ -110,6 +110,27 @@ Gallery page on tablet
 
 ![Gallery](media/ZenYoga%20-%20Gallery%20tablet%20wireframe.png)
 
+## Technologies
+
+* HTML
+    * The structure of the Website was developed using HTML as the main language.
+* CSS
+    * The Website was styled using custom CSS in an external file.
+* Gitpod
+    * The website was developed using Gitpod IDE
+* GitHub
+    * Source code is hosted on GitHub and delpoyed using Git Pages.
+* Git 
+    * Used to commit and push code during the development opf the Website
+* Font Awesome
+    * Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section. 
+* Tinyjpg
+    * https://tinyjpg.com/ was used to reduce the size of the images used throughout the website
+* Favicon.io
+    * favicon files were created at https://favicon.io/favicon-converter/
+* Figma
+    * Used to design the wireframes and the UI for the ZenYoga website
+
 ## Testing 
 
 ### Validator Testing 
