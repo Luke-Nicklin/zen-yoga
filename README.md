@@ -131,7 +131,29 @@ Gallery page on tablet
 * Figma
     * Used to design the wireframes and the UI for the ZenYoga website
 
-## Testing 
+## Testing
+
+### Responsiveness
+
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.2 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG22/Understanding/reflow.html) on Chrome and safari browsers.
+
+Steps to test:
+
+1. Open browser and navigate to [ZenYoga](https://luke-nicklin.github.io/zen-yoga/index.html)
+2. Open the developer tools (right click and inspect)
+3. Set to responsive and decrease width to 320px
+4. Set the zoom to 50%
+5. Click and drag the responsive window to maximum width
+
+Expected:
+
+Website is responsive on all screen sizes and no images are pixelated or stretched.
+No horizontal scroll is present.
+No elements overlap.
+
+Actual:
+
+Website behaved as expected.
 
 ### Validator Testing 
 
