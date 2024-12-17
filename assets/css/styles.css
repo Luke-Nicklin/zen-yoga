@@ -63,6 +63,10 @@ h2 {
     margin-bottom: 20px;
 }
 
+.container {
+    text-align: center;
+}
+
 /* Gallery page */
 #photos img {
     width: 100%;
