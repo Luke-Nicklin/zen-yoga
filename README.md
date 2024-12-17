@@ -170,13 +170,23 @@ Testing was focused to ensure the following criteria were met:
 
 ### Lighthouse Testing
 
+__Home__
+
 ![Home](media/ZenYoga-index-lighthouse.png)
+
+__Meditation__
 
 ![Meditation](media/ZenYoga-meditation-lighthouse.png)
 
+__Yoga__
+
 ![Yoga](media/ZenYoga-yoga-lighthouse.png)
 
+__Mindfulness__
+
 ![Mindfulness](media/ZenYoga-mindfulness-lighthouse.png)
+
+__Gallery__
 
 ![Gallery](media/ZenYoga-gallery-lighthouse.png)
 
