@@ -89,10 +89,11 @@ __Gallery__
 
 ![Gallery](media/ZenYoga-gallery.png) 
 
-### Features Left to Implement
+### Features to implement in the future
 
 - Class timetable
 - Online booking system
+- Automated mailing service that sends the booking enquiries to the site owner via email
 
 ## Design
 
